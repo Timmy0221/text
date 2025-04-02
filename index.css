@@ -75,7 +75,7 @@ div.container{
 /* 這是針對在手機上看而使用不然拉太長很奇怪 */
 @media (aspect-ratio: 16/9) {
   div.container {
-      width: 20vw; /* 增加容器寬度 */
+      width: 50vw; /* 增加容器寬度 */
   }
 }
 
