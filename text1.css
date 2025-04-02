@@ -1,11 +1,12 @@
 
-  body {
+body {
     background-image: url("./2.gif");
     margin: 0;
     background-size: cover;
     background-position: center;
     background-repeat: no-repeat;
     background-attachment: fixed;
+    overflow: hidden;
 }
 
 .button1 {
